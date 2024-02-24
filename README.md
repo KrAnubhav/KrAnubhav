@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hello and welcome to my GitHub profile!</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">  FrontEnd Developer</p>
 
 ###
 
@@ -10,11 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<p align="left">🎓 Graduated IT @ Haldia Institute Of Technology <br>👨‍💻 570+ Problem Solved @ GFG <br>🎯 Turning coffee into code, one <div> at a time! <br> 🎲 FrontEndWizard </p>
 
 ###
 
