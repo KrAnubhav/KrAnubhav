@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">🎓 Graduated IT @ Haldia Institute Of Technology <br>👨‍💻 570+ Problem Solved @ GFG <br>🎯 Turning coffee into code, one <<div>> at a time! <br> 🎲 FrontEndWizard </p>
+<p align="left">🎓 Graduated IT @ Haldia Institute Of Technology <br>👨‍💻 570+ Problem Solved @ GFG <br>🎯 Turning coffee into code, one >div> at a time! <br> 🎲 FrontEndWizard </p>
 
 ###
 
