@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">🎓 Graduated IT @ Haldia Institute Of Technology <br>👨‍💻 570+ Problem Solved @ GFG <br>🎯 Turning coffee into code, one >div> at a time! <br> 🎲 FrontEndWizard </p>
+<p align="left">🎓 Graduated IT @ Haldia Institute Of Technology <br>👨‍💻 570+ Problem Solved @ GFG <br>🎯 Turning coffee into code, one <tag> at a time! <br> 🎲 FrontEndWizard </p>
 
 ###
 
@@ -44,13 +44,14 @@
   <a href="https://www.linkedin.com/in/anubhav-kumar-9aa3261a6/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
+  <a href="https://www.hackerrank.com/profile/Anubhavkr">
+    <img src="https://img.shields.io/static/v1?message=Hackerrank&logo=Hackerrank&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo" />
+  </a>
 </div>
 
 
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/KrAnubhav/KrAnubhav/output/snake.svg" alt="Snake animation" />
 
 ###
