@@ -2,7 +2,6 @@
 
 ###
 
-<p align="left">  FrontEnd Developer</p>
 
 ###
 
